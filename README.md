@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yug Bhanushali</h1>
 <h3 align="center">I am a Full-stack developer. And I love to make tools that make life easier using code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yugbhanushali&label=Profile%20views&color=0e75b6&style=flat" alt="yugbhanushali" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yugbhanushali&label=Profile%20views&color=0e75b6&style=flat" alt="yugbhanushali" /></p>
 
 <p align="left"> <a href="https://twitter.com/theyug03" target="blank"><img src="https://img.shields.io/twitter/follow/theyug03?logo=twitter&style=for-the-badge" alt="theyug03" /></a> </p>
 
